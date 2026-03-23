@@ -58,9 +58,9 @@ Tableau.
 
 ## 👨‍💻 Projects Portfolio
 - Customer Churn Classification Pipeline | Python, scikit-learn, SQL, Streamlit | [Link](https://github.com/raymondmusyoka/Customer-Churn-Classification-Project)
-- Dimensional Data Model: Customer Segmentation | SQL, Python, Power BI | Link
-- Time-Series Sales Forecasting: Corporation Favorita | Python, SQL | Link
-- Power BI Semantic Layer Dashboard: getINNOTIZED | Power BI, DAX | Link
+- Dimensional Data Model: Customer Shopping behaviour | SQL, Python, Power BI | [Link](https://github.com/raymondmusyoka/Customer-shopping-behavior-Analysis-project)
+- Time-Series Sales Forecasting: Corporation Favorita | Python, SQL | [Link](https://github.com/raymondmusyoka/Time-siries-analysis-for-favorita-stores)
+- Power BI Semantic Layer Dashboard: getINNOTIZED | Power BI, DAX | [Link](https://github.com/raymondmusyoka/A-Power-Bi-Dashboard-for-getINNOTIZED-sales)
 
 ## 🔗 Connect with Me
 
