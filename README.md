@@ -1,59 +1,73 @@
-Hello I am Raymond!
-A Data Analyst, I turn data into business decisions using Python, SQL, and Power BI.
+👋 Hello, I’m Raymond
 
-About
-I am a data analyst with a background in Economics and Statistics.
-I work on customer analytics, forecasting, and dashboards.
-i am targeting data analyst roles in Germany.
+## About
+Data Analyst with a background in Economics and Statistics.
+You analyze data, build models, and create dashboards for decision-making.
+You focus on customer analytics, forecasting, and business insights.
 
-Skills
-Languages
+## 🌱 Currently Learning
 
-Python
-SQL
+- Azure
+- dbt with Snowflake or BigQuery
+- Advanced SQL
+- Airflow
 
-Tools
+## 👀 Interests
+
+- Data analytics techniques
+- Business intelligence
+- Data-driven decision making
+
+## 🚀 Key Competencies
+
+Data Analysis & Visualization 📊
+
+- Clean and analyze structured data
+- Build dashboards using Power BI
+- Present insights for business decisions
+
+## Business Problem Solving 📈
+
+- Identify inefficiencies
+- Improve processes using data
+- Translate business needs into analysis
+
+## Analytical Thinking 🚩
+
+- Detect patterns and anomalies
+- Build predictive models
+
+## 🛠️ Tools & Technologies
+
+- Databases
+
+MySQL
+PostgreSQL
+
+- BI Tools
 
 Power BI
 Tableau
-Excel
 
-Methods
+## Python Libraries 🐍
 
-A/B testing
-Regression
-Classification
-Time series
+Pandas
+NumPy
+Matplotlib
 
-Projects
+## 👨‍💻 Projects Portfolio
 
 Customer Churn Prediction
-
-Built classification model using Python
-Improved targeting accuracy by 20 percent
-Tools: Python, Scikit-learn
-
 Sales Forecasting
+Power BI Dashboard
+SQL Projects
 
-Built time series model for demand prediction
-Reduced forecast error by 15 percent
-Tools: Python, Pandas
+## 🔗 Connect with Me
 
-Power BI Sales Dashboard
+LinkedIn
+GitHub
 
-Built dashboard for sales tracking
-Reduced reporting time by 30 percent
-Tools: Power BI
-
-Experience snapshot
-Freelance Data Analyst
-
-Delivered analytics projects across different industries
-Built dashboards and predictive models
-Improved business reporting processes
-
-Contact
-Email: raymondmusyoka714@gmail.com
-
-LinkedIn: add your link
-GitHub: already visible
+## 📫 Contact
+- Email: raymondmusyoka714@gmail.com
+- LinkedIn: add your link
+- GitHub: already visible
