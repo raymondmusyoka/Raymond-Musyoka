@@ -1,9 +1,9 @@
 👋 Hello, I’m Raymond
 
 ## About
-Data Analyst with a background in Economics and Statistics.
-You analyze data, build models, and create dashboards for decision-making.
-You focus on customer analytics, forecasting, and business insights.
+- Data Analyst with a background in Economics and Statistics.
+- analyze data, build models, and create dashboards for decision-making.
+- I focus on customer analytics, forecasting, and business insights.
 
 ## 🌱 Currently Learning
 
@@ -11,6 +11,7 @@ You focus on customer analytics, forecasting, and business insights.
 - dbt with Snowflake or BigQuery
 - Advanced SQL
 - Airflow
+- Databricks
 
 ## 👀 Interests
 
@@ -20,7 +21,7 @@ You focus on customer analytics, forecasting, and business insights.
 
 ## 🚀 Key Competencies
 
-Data Analysis & Visualization 📊
+## Data Analysis & Visualization 📊
 
 - Clean and analyze structured data
 - Build dashboards using Power BI
@@ -41,26 +42,26 @@ Data Analysis & Visualization 📊
 
 - Databases
 
-MySQL
-PostgreSQL
+MySQL.
+PostgreSQL.
 
 - BI Tools
 
-Power BI
-Tableau
+Power BI.
+Tableau.
 
 ## Python Libraries 🐍
 
-Pandas
-NumPy
-Matplotlib
+- Pandas
+- NumPy
+- Matplotlib
 
 ## 👨‍💻 Projects Portfolio
 
-Customer Churn Prediction
-Sales Forecasting
-Power BI Dashboard
-SQL Projects
+- Customer Churn Prediction [github.com\raymondmusyoka]
+- Sales Forecasting
+- Power BI Dashboard
+
 
 ## 🔗 Connect with Me
 
