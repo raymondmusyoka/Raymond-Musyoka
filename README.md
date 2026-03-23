@@ -57,11 +57,10 @@ Tableau.
 - Matplotlib
 
 ## 👨‍💻 Projects Portfolio
-
-- Customer Churn Prediction [github.com\raymondmusyoka]
-- Sales Forecasting
-- Power BI Dashboard
-
+- Customer Churn Classification Pipeline | Python, scikit-learn, SQL, Streamlit | [Link](https://github.com/raymondmusyoka/Customer-Churn-Classification-Project)
+- Dimensional Data Model: Customer Segmentation | SQL, Python, Power BI | Link
+- Time-Series Sales Forecasting: Corporation Favorita | Python, SQL | Link
+- Power BI Semantic Layer Dashboard: getINNOTIZED | Power BI, DAX | Link
 
 ## 🔗 Connect with Me
 
@@ -70,5 +69,4 @@ GitHub
 
 ## 📫 Contact
 - Email: raymondmusyoka714@gmail.com
-- LinkedIn: add your link
-- GitHub: already visible
+- LinkedIn: 
