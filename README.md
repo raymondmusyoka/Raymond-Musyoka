@@ -69,4 +69,4 @@ GitHub
 
 ## 📫 Contact
 - Email: raymondmusyoka714@gmail.com
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/raymond-musyoka
