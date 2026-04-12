@@ -1,15 +1,5 @@
 👋 Hello, I’m Raymond
 
-## 📋 Table of Contents
-- About
-- Currently Learning
-- Interests
-- Key Competencies
-- Tools & Technologies
-- Projects Portfolio
-- Connect with Me
-- Contact
-
 ## About
 - Data Analyst with a background in Economics and Statistics.
 - analyze data, build models, and create dashboards for decision-making.
